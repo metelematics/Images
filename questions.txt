@@ -1,6 +1,6 @@
 Q1: Client Name
 Q2: Category
 Q3: Device Location
-Q4: Was the 12v power CONNECTED TO BATTERY?
-Q5: Was the wiring loop secure and cable tied?
+Q4: Was the 12v power CONNECTED TO BATTERY? (TF)
+Q5: Was the wiring loop secure and cable tied? (TF)
 Q6: Additional Notes
