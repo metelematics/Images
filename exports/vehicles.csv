@@ -1,4 +1,1 @@
-date_time,technician,"Client Name","Additional Notes","Was the 12v power CONNECTED TO BATTERY?","Was the wiring loop secure and cable tied?","Category","Device Location","Images","Model","Plate Number","Chassis Number","Vehicle Type","serial_number","sim_serial_number","mobile_number"
-Jayesh,"aws","main","24.9598369, 55.1025843","","2017","JM7GL4S38S1539084","nissan"
-Joy,"siteplan","main","24.9598369, 55.1025843","","2018","WBA11EHO3SCT28904","toyota"
-2025-11-18 13:49:31,Joy,"aws","hello","True","True","cars","Left Side","file:///data/user/0/com.example.sgsauditapp/cache/IMG_1763459279061.jpg,file:///data/user/0/com.example.sgsauditapp/cache/IMG_1763459289693.jpg,content://media/picker_get_content/0/com.android.providers.media.photopicker/media/388","2010","1234","2838838","nissan","727773","8997112212774017874","971831008029755"
+
