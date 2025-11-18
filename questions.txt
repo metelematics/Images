@@ -1,17 +1,17 @@
 # INSTALLATION
-Q1: Client Name
-Q2: Category
-Q3: Device Location
-Q4: Was the 12v power CONNECTED TO BATTERY? (TF)
-Q5: Was the wiring loop secure and cable tied? (TF)
-Q6: Additional Notes
+Q1*: Client Name
+Q2*: Category
+Q3*: Device Location
+Q4*: Was the 12v power CONNECTED TO BATTERY? (TF)
+Q5*: Was the wiring loop secure? (TF)
+Q6: Additional Notes    // optional
 
 # CONNECTIONS
-C1: Vehicle Number Plate (IMG)
-C2: Vehicle Chassis Number Picture (IMG)
-C3: Device Picture with Scan (IMG)
-C4: Dashboard pic with Odometer (IMG)
-C5: Device Location Picture (IMG)
-C6: Power Connection Picture (IMG)
-C7: Seat Sensor Looping and Installation place (IMG)
-C8: Installed Accessory Picture (IMG)
+C1*: Number Plate (IMG)
+C2*: Chassis Number (IMG)
+C3*: Device Scan (IMG)
+C4*: Odometer (IMG)
+C5*: Device Location (IMG)
+C6*: Power Connection (IMG)
+C7*: Seat Sensor (IMG)
+C8*: Accessory (IMG)
