@@ -1,2 +1,1 @@
-date_time,technician,"Installation Type","Client Name","Category","Device Location","Was the 12v power CONNECTED TO BATTERY?","Was the wiring loop secure?","Additional Notes    // optional","Model","Plate Number","Chassis Number","Vehicle Type","serial_number","sim_serial_number","mobile_number"
-2025-11-19 07:31:08,Jayesh,"Private","yyyy","jjj","Center","False","False","jjjj","77uuu","uuuu","yyhhh","7888","6777","8997112212764920045","971831000457142"
+date_time,technician,"Installation Type","Client Name","Category","Device Location","Was the 12v power CONNECTED TO BATTERY?","Was the wiring loop secure?","Additional Notes    // optional"
