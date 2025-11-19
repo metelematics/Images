@@ -6,6 +6,13 @@ Q4*: Was the 12v power CONNECTED TO BATTERY? (TF)
 Q5*: Was the wiring loop secure? (TF)
 Q6: Additional Notes    // optional
 
+# Vehicle Questions
+V1*: Model
+V2*: Plate Number
+V3*: Chassis Number
+V4*: Vehicle Type
+V5: Additional Notes (optional)
+
 # CONNECTIONS
 C1*: Number Plate (IMG)
 C2*: Chassis Number (IMG)
