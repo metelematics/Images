@@ -1,7 +1,7 @@
 # INSTALLATION
 Q1*: Client Name
 Q2*: Category
-Q3*: Device Location
+Q3*: GPS Location
 
 # Vehicle Questions
 V1*: Model
